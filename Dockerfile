@@ -27,7 +27,7 @@ RUN git clone https://github.com/NeoRazorX/facturascripts.git .\
   && mv htaccess-sample /tmp/.htaccess\
   && composer install\
   && npm install\
-  && mv /tmp/.htaccess .htaccess\
+  && mv /tmp/.htaccess .htaccess
 
 # Configure Apache2
 RUN a2enmod rewrite\
