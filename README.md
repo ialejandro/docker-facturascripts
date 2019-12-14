@@ -1,5 +1,5 @@
 # Requirements
-* MySQL server will be accesible by Docker containers. You can use [official mysql image](https://hub.docker.com/r/mysql/mysql-server/)
+* MySQL server will be accesible by Docker containers. You can use [official mysql image](https://hub.docker.com/r/mysql/mysql-server/).
 
 # Quick start!
 ```
